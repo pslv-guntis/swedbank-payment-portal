@@ -16,7 +16,7 @@
         "symfony/yaml": "7.*",
         "symfony/dependency-injection": "7.*",
         "symfony/config": "7.*",
-        "jms/serializer": "^1.1",
+        "jms/serializer": "3.32.*",
         "guzzlehttp/guzzle": "7.*",
         "doctrine/cache": "^1.6 | ^2.2"
     },
